@@ -4,8 +4,8 @@ I'm a passionate web developer with expertise in various programming languages a
 
 ## 💻 Technical Wizardry
 
-- **Languages**: JavaScript, TypeScript, Python, Java
-- **Frameworks**: Reactjs, Express, Spring Boot, Next.js, Django, React Native
+- **Languages**: JavaScript, TypeScript, Python, Java, Rust, PHP
+- **Frameworks**: Reactjs, Express, Spring Boot, Django, React Native, Laravel, fastAPI, flutter
 
 Whether it's building dynamic web applications, creating scalable backends, or developing cross-platform mobile apps, I'm always up for a coding challenge.
 
